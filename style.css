@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+/* style.css */
+body {
+    /* font-family: Arial, sans-serif; */
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-nav .nav-item .nav-link {
+    font-size: 1.2rem;
+}
+
+#profile {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+}
+
+#profile .btn {
+    margin: 0 10px;
+}
+
+#about img,
+#profile img {
+    max-width: 100%;
+    height: auto;
+}
+
+#about {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+#experience .card {
+    margin: 20px 0;
+}
+
+#projects .card {
+    margin: 20px 0;
+}
+
+#contact .card {
+    margin: 20px 0;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
