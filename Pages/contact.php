@@ -1,4 +1,4 @@
-<section id="contact" class="py-4 mt-1 bg-light">
+<section id="contact" class="py-4 mt-1 p-4 bg-light">
     <p class="text-center fs-4">Get In Touch</p>
     <h1 class="text-center display-4">Contact Me</h1>
     <div class="row mt-3">
