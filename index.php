@@ -17,7 +17,7 @@
     <?php include('Pages/experience.php') ?>
 
     <!-- Projects Section -->
-    <?php include('Pages/Page_Projects/projects.php') ?>
+    <?php include('Pages/projects.php') ?>
 
     <!-- Contact Section -->
     <?php include('Pages/contact.php') ?>
