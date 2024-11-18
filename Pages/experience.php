@@ -38,7 +38,7 @@
                         <img src="./assets/logos/react.png" alt="Experience icon" class="icon me-3 w-25" />
                         <div>
                             <h3>React.js</h3>
-                            <p>Advanced Beginner</p>
+                            <p>Competent</p>
                         </div>
                     </li>
                 </ul>
