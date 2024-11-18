@@ -11,7 +11,7 @@
                     <h3 class="card-title">Stichting Fundamental Truth of Christ Website</h3>
                     <p><i>2018 - Church Web Project</i></p>
                     <p class="card-text">
-                        This website was built using HTML, CSS, and Bootstrap for structuring, styling, and responsive design, with a touch of JavaScript for added interactivity and PHP for minimal server-side scripting, and also features a custom-designed logo, books, and images created using Photoshop.
+                        This website was built using HTML, CSS, and Bootstrap for structuring, styling, and responsive design, with a touch of JavaScript for added interactivity and PHP for minimal server-side scripting, and also features a custom-designed logo, books, and images created using Photoshop. Eventually this website has been redevelop in React.js.
                     </p>
                     <div class="mt-auto">
                         <a href="https://fundamentaltruthofchrist.nl/index.php" class="btn btn-primary w-100" target="_blank">Link to Website</a>
